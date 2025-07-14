@@ -32,22 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsingh2116&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsingh2116&layout=compact&theme=radical" width="47%" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akashsingh2116&theme=radical&hide_border=true" />
-</p>
-
----
 
 ### 🧠 Currently Learning
 - DSA in Java

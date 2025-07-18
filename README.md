@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 👨‍💻 I’m currently working on a stealth-mode startup project focused on web/app solutions and internship mentoring.
-- 🧠 Practicing **DSA in Java** on LeetCode
+- 🧠 Practicing **DSA in Java** on LeetCode || 100+ Questions Solved
 - 🛠️ Working on projects using **React, Node.js, Express, MongoDB**
 - 🏗️ Projects include: E-commerce Site, Portfolio, Story Writing Platform
 - ✨ Always learning new tech, clean code, and system design
